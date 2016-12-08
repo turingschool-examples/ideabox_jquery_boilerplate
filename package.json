@@ -1,0 +1,27 @@
+{
+  "name": "ideabox",
+  "version": "1.0.0",
+  "description": "This is a boilerplate for the IdeaBox 2.0 project for module 4 bee at TuringSchool of Software and Design",
+  "main": "public/index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/turingschool-examples/ideabox_jquery_boilerplate.git"
+  },
+  "keywords": [
+    "jquery",
+    "javascript"
+  ],
+  "author": "Carmer",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/turingschool-examples/ideabox_jquery_boilerplate/issues"
+  },
+  "homepage": "https://github.com/turingschool-examples/ideabox_jquery_boilerplate#readme",
+  "devDependencies": {
+    "jquery": "^3.1.1",
+    "webpack": "^1.14.0"
+  }
+}
